@@ -1,0 +1,40 @@
+body {
+    background: #000;
+    color: rgb(255, 255, 255);
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background-image: url(12background.png);
+    background-size: cover;
+    background-repeat: no repeat;
+}
+.profile{
+    float: right;
+    padding-bottom: 100px;
+}
+#mid{
+    padding-top: 200px;
+    padding-left: 68px;
+}
+.logo{
+    padding-left: 28px;
+}
+#Snow{
+    padding-left: 98px;
+    position: relative;
+    bottom: 83px;
+    font-size: 40px;
+}
+#Maid{
+    font-size: 100px;
+    position: relative;
+    bottom: 160px;
+    left: 60px;
+}
+.play{
+    position: relative;
+    bottom: 240px;
+    left: 60px;
+}
